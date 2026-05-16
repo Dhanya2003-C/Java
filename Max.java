@@ -1,4 +1,4 @@
-Find maximum value from array.
+//Find maximum value from array.
 
 import java.util.*;
 public class Main
